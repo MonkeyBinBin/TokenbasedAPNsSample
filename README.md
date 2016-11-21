@@ -3,7 +3,7 @@ token-based authentication APNS推播範例
 [Use Authentication Tokens Communicating with APNs](https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/CommunicatingwithAPNs.html)
 
 # 開發工具
-Visual Studio 2015(.Net framework 4.6.2)
+Visual Studio 2015(.Net framework 4.6.2)  
 (由於加密演算法的需要，必需使用.Net framework 4.6.2以上版本)
 
 # 使用套件
